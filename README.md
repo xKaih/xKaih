@@ -1,19 +1,66 @@
-### Hola 👋, puedes llamarme Kai.
-#### C# Developer
-![C# Developer](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png)
+<h1 align="center">Hey, I'm xKaih 👋</h1>
 
-Empezé porque me parece un mundo muy interesante <3
+###
 
-Habilidades: C# / Python / C++
+<div align="center">
+  <a href="https://www.linkedin.com/in/ekaitz-gallego-martínez-357842303" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@xKaiih" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
-- 🔭 Estoy trabajando en una SS Tool y Proxy Scraper 
-- 🌱 Estoy aprendiendo Python y en menor medida C++ 
+###
 
+<h2 align="left">About Me!</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xKaih) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](data:image/png;base64,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)  
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xKaih)](https://github.com/anuraghazra/github-readme-stats)
+👨‍💻 Passionate about IT & software development. I started programming at a young age, building automation scripts and later full applications in C# and Kotlin.<br><br>🔧 **Experience in:**  <br><br>- 💻 Software development (C#, Kotlin, Java)  <br>- ⚡ Automation & productivity tools  <br>- 🛠️ Using and maintaining third-party software  <br><br>📚 Curious by nature, eager to learn and grow, I enjoy problem-solving, improving processes, and turning ideas into real projects.  <br><br>🎯 **Goal:** keep growing as a developer, deliver innovative solutions, and build projects that create a positive impact.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xKaih&show_icons=true)  
+###
 
-![Profile views](https://gpvc.arturio.dev/xKaih)  
+<h2 align="left"></h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="48" alt="gradle logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xkaih&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=xkaih&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=xkaih&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph.svg">
+</picture>
+
+###
