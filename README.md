@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm xKaih 👋</h1>
+<h1 align="center">👨‍💻 Hey there, I'm xKaih!</h1>
+<h3 align="center">Passionate Developer | IT Enthusiast | Lifelong Learner 🚀</h3>
+
 
 ###
 
@@ -13,42 +15,51 @@
 
 ###
 
-<h2 align="left">About Me!</h2>
+## 💡 About Me
+
+- 👨‍💻 Passionate about **IT & software development** since a young age  
+- 🛠️ Experienced in **C#, Kotlin, Java**, and building automation tools  
+- 🚀 Interested in **Android Development, Automation & Productivity Apps**  
+- 📚 Always curious, always learning — I enjoy turning ideas into real projects  
+- 🎯 Goal: keep growing as a developer and create impactful solutions<br><br>
 
 ###
 
-👨‍💻 Passionate about IT & software development. I started programming at a young age, building automation scripts and later full applications in C# and Kotlin.<br><br>🔧 **Experience in:**  <br><br>- 💻 Software development (C#, Kotlin, Java)  <br>- ⚡ Automation & productivity tools  <br>- 🛠️ Using and maintaining third-party software  <br><br>📚 Curious by nature, eager to learn and grow, I enjoy problem-solving, improving processes, and turning ideas into real projects.  <br><br>🎯 **Goal:** keep growing as a developer, deliver innovative solutions, and build projects that create a positive impact.
+###
+## 🚀 Featured Projects
+
+- 📝 **Simple Console Task Manager** (Kotlin) – CLI app to manage tasks with JSON persistence  
+- ⏱️ **Pomodoro App** (Kotlin/Android) – Productivity app with customizable timers  
+- 🔒 **SS Tools** (C#) – Early projects automating client-side checks for Minecraft cheats<br><br>
 
 ###
 
-<h2 align="left"></h2>
+###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="48" alt="gradle logo"  />
+
+**Languages & Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>  
+
+**Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40"/>  
+
 </div>
+
 
 ###
 
+###
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xkaih&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=xkaih&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
@@ -57,10 +68,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xkaih/xkaih/output/pacman-contribution-graph.svg">
-</picture>
+###
+---
+✨ *"Always building, always learning — one project at a time."*  
+📩 Reach me at: [LinkedIn](https://www.linkedin.com/in/ekaitz-gallego-martínez-357842303) | [YouTube](https://www.youtube.com/@xKaiih)
 
 ###
